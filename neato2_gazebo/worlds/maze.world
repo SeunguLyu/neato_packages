@@ -15,5 +15,8 @@
     <include>
       <uri>model://neato</uri>
     </include>
+    <include>
+      <uri>model://Apriltag36_11_00000</uri>
+    </include>
   </world>
 </sdf>
