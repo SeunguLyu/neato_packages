@@ -18,5 +18,11 @@
     <include>
       <uri>model://Apriltag36_11_00000</uri>
     </include>
+    <include>
+      <uri>model://Apriltag36_11_00001</uri>
+    </include>
+    <include>
+      <uri>model://Apriltag36_11_00002</uri>
+    </include>
   </world>
 </sdf>
